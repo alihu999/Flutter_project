@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209597958960",
+    "project_id": "reborter-fcdba",
+    "storage_bucket": "reborter-fcdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209597958960:android:644dfaa550414adb81d6f5",
+        "android_client_info": {
+          "package_name": "com.example.reporter_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209597958960-oplnjgqhkn1p5h7ohd2umhsftr24s0et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reporter_v1",
+            "certificate_hash": "6d058970642841c547ce2cecd9736783b0d4ae4b"
+          }
+        },
+        {
+          "client_id": "209597958960-qgk957129t2inmu3a4ho2lqbej9i65s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVy3ryN7NCRfkvGxy0l2klPU7kMNMP_Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209597958960-qgk957129t2inmu3a4ho2lqbej9i65s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
